@@ -21,6 +21,7 @@
     "@angular/router": "~8.0.0",
     "core-js": "^2.5.7",
     "intl": "^1.2.5",
+    "karma-webpack": "^3.0.5",
     "rxjs": "~6.4.0",
     "tslib": "^1.9.0",
     "zone.js": "~0.9.1"
@@ -39,7 +40,7 @@
     "karma": "~4.1.0",
     "karma-chrome-launcher": "~2.2.0",
     "karma-coverage-istanbul-reporter": "~2.0.1",
-    "karma-jasmine": "~2.0.1",
+    "karma-jasmine": "^2.0.1",
     "karma-jasmine-html-reporter": "^1.4.0",
     "karma-phantomjs-launcher": "^1.0.4",
     "phantomjs-prebuilt": "^2.1.16",
